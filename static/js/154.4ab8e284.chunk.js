@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_homework_template=self.webpackChunkreact_homework_template||[]).push([[154],{9154:function(e,t,n){n.r(t),n.d(t,{default:function(){return c}});n(2791);var a="NotFoundPage_mainContainer__S+PzF",r=n(184),c=function(){return(0,r.jsx)("div",{className:a,children:(0,r.jsx)("img",{src:"https://i.stack.imgur.com/6M513.png",alt:"404"})})}}}]);
+//# sourceMappingURL=154.4ab8e284.chunk.js.map
